@@ -1,1 +1,0 @@
-{"name":"app-chat-js","version":"1.0.0","main":"index.js","license":"MIT","scripts":{"start":"node server.js","build":"next dev"},"dependencies":{"express":"^4.17.1","next":"^9.2.2","react":"^16.13.0","react-dom":"^16.13.0","socket.io":"^2.3.0","socket.io-client":"^2.3.0"},"readme":"ERROR: No README data found!","_id":"app-chat-js@1.0.0"}
